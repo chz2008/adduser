@@ -1,2 +1,2 @@
 # adduser
-bypass adduser  for  c#
+bypass adduser  for  c#/golang
